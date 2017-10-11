@@ -1,4 +1,4 @@
-export const UISCHEMA = 
+export const UI_SCHEMA = 
 {
     'type': 'VerticalLayout',
     'elements': [
